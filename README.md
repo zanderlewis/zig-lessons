@@ -1,2 +1,2 @@
-# Zig Lessons
-Through the help of AI, I am learning Zig, and you can too!
+# Zig Playground
+Learning Zig by doing.
